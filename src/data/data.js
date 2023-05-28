@@ -1,11 +1,11 @@
-import WorkIm from '../assets/Converter App.png';
+import ToDo from '../assets/ToDoApp.png';
 import RealEst from '../assets/Weather App.png';
 
 export const data=[
     {
         id:1,
-        name:"Walutomatik App",
-        image:WorkIm,
+        name:"ToDo List App",
+        image:ToDo,
         github:"",
         live:"",
     },
@@ -19,7 +19,7 @@ export const data=[
     {
         id:3,
         name:" Quiz App",
-        image:WorkIm,
+        image:RealEst,
         github:"",
         live:"",
     },

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
+import { FaBars, FaTimes, FaGithub, FaLinkedin, } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import {BsFillPersonLinesFill} from 'react-icons/bs';
 import Logo from '../assets/logo.png';
@@ -10,13 +10,13 @@ const NavBar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#002222] text-gray-300'>
+    <div className='fixed w-full h-[135px] flex justify-between items-center px-4 bg-[#002222] text-gray-300'>
       <div>
-        <img src={Logo} alt='Logo Image' style={{ width: '150px', marginTop: '60px' }} />
+        <img src={Logo} alt='Logo Image' style={{ width: '150px', marginTop: '-15px' }} />
       </div>
 
       {/* Menu */}
-      <ul className='hidden md:flex' style={{ marginTop: '70px' }}>
+      <ul className='hidden md:flex' style={{ marginTop: '10px' }}>
   <li style={{ fontSize: '20px' }}>
   <Link to='Strona Główna' smooth={true} duration={500}>
     Strona Główna
@@ -44,44 +44,45 @@ const NavBar = () => {
     </li>
 </ul>
 
-      {/* Hamburger */}
-      <div onClick={handleClick} className='md:hidden' style={{ zIndex: 10 }}>
-        {nav ? (
-          <FaTimes style={{ marginTop: '5px' }} />
-        ) : (
-          <FaBars style={{ marginTop: '5px' }} />
-        )}
-      </div>
+{/* Hamburger */}
+<div onClick={handleClick} className='md:hidden z-10'>
+  {!nav ? <FaBars size="2em" /> : <FaTimes size="2em" />}
+</div>
+
 
       {/* Mobile Menu */}
       <ul
         className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#002222] flex flex-col justify-center items-center'}
       >
         <li className='py-6 text-4xl'>
-        <Link to='Projekty' smooth={true} duration={500}>
+          <Link onClick={handleClick} to='Strona Główna' smooth={true} duration={500}>
           Strona Główna
-        </Link>  
-          </li>
+          </Link>
+        </li>
         <li className='py-6 text-4xl'>
-        <Link to='Projekty' smooth={true} duration={500}>
+          {' '}
+          <Link onClick={handleClick} to='O mnie' smooth={true} duration={500}>
           O mnie
           </Link>
-          </li>
+        </li>
         <li className='py-6 text-4xl'>
-        <Link to='Projekty' smooth={true} duration={500}>
+          {' '}
+          <Link onClick={handleClick} to='Umiejętności' smooth={true} duration={500}>
           Umiejętności
           </Link>
-          </li>
+        </li>
         <li className='py-6 text-4xl'>
-        <Link to='Projekty' smooth={true} duration={500}>
+          {' '}
+          <Link onClick={handleClick} to='Projekty' smooth={true} duration={500}>
           Projekty
           </Link>
-          </li>
+        </li>
         <li className='py-6 text-4xl'>
-        <Link to='Projekty' smooth={true} duration={500}>
+          {' '}
+          <Link onClick={handleClick} to='Kontakt' smooth={true} duration={500}>
           Kontakt
           </Link>
-          </li>
+        </li>
       </ul>
 
       {/* Social icons */}
