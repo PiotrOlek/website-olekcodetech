@@ -6,8 +6,8 @@ export const data=[
         id:1,
         name:"ToDo List App",
         image:ToDo,
-        github:"",
-        live:"",
+        github:"https://github.com/PiotrOlek/todolist",
+        live:"https://piotrolek.github.io/todolist/",
     },
     {
         id:2,
