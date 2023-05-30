@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/website-olekcodetech/static/css/main.dc800cc7.css",
-    "main.js": "/website-olekcodetech/static/js/main.05deedaa.js",
-    "static/media/Weather App.png": "/website-olekcodetech/static/media/Weather App.40b0ee38bd4620d83da1.png",
+    "main.js": "/website-olekcodetech/static/js/main.1af01a3f.js",
+    "static/media/WeatherApp.png": "/website-olekcodetech/static/media/WeatherApp.1d2dbd0a599f13158af0.png",
     "static/media/ToDoApp.png": "/website-olekcodetech/static/media/ToDoApp.1bf0ac3c3078b24c18d2.png",
     "static/media/react.png": "/website-olekcodetech/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/website-olekcodetech/static/media/node.952a9ea986dcfa5229ad.png",
@@ -15,10 +15,10 @@
     "static/media/javascript.png": "/website-olekcodetech/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/website-olekcodetech/index.html",
     "main.dc800cc7.css.map": "/website-olekcodetech/static/css/main.dc800cc7.css.map",
-    "main.05deedaa.js.map": "/website-olekcodetech/static/js/main.05deedaa.js.map"
+    "main.1af01a3f.js.map": "/website-olekcodetech/static/js/main.1af01a3f.js.map"
   },
   "entrypoints": [
     "static/css/main.dc800cc7.css",
-    "static/js/main.05deedaa.js"
+    "static/js/main.1af01a3f.js"
   ]
 }
