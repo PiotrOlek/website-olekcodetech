@@ -1,5 +1,7 @@
 import ToDo from '../assets/ToDoApp.png';
 import Weather from '../assets/WeatherApp.png';
+import BMI from '../assets/KalkulatorBMI.png';
+
 export const data=[
     {
         id:1,
@@ -17,10 +19,10 @@ export const data=[
     },
     {
         id:3,
-        name:"Snake Games",
-        image:Weather,
-        github:"",
-        live:"",
+        name:"Kalkulator BMI",
+        image:BMI,
+        github:"https://github.com/PiotrOlek/bmi_calculator",
+        live:"https://PiotrOlek.github.io/bmi-react-calculator",
     },
     {
         id:4,
