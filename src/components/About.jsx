@@ -17,7 +17,7 @@ const About = () => {
               <p>Cześć. Nazywam się Piotr, cieszę się, że tu jesteś. Zapraszam do zapoznania się z moimi projektami.</p>
             </div>
             <div>
-              <p>Moją pasją jest tworzenie wyrafinowanych i intuicyjnych interfejsów użytkownika, które sprawiają, że korzystanie z sieci staje się prostsze i bardziej przyjemne dla każdego. Chociaż jestem na początku mojej kariery, posiadam solidne podstawy w HTML, CSS i JavaScript oraz jestem zdeterminowany, aby ciągle się rozwijać i nauczyć się nowych technologii. Pragnę tworzyć oprogramowanie, które nie tylko spełnia oczekiwania, ale przekracza je, dostarczając unikalnych i satysfakcjonujących doświadczeń użytkowników. Mam zapał do nauki, jestem gotowy do podjęcia nowych wyzwań i z niecierpliwością oczekuję na możliwość pracy nad inspirującymi projektami. Pomyśl, jak wiele możemy osiągnąć razem z moją energią i twoją wizją.</p>  
+              <p>Moją pasją jest tworzenie wyrafinowanych i intuicyjnych interfejsów użytkownika, które sprawiają, że korzystanie z sieci staje się prostsze i bardziej przyjemne dla każdego. Jestem na początku mojej kariery, posiadam solidne podstawy w HTML, CSS i JavaScript. Ciągle rozwijam się i uczę nowych technologii. Tworzę oprogramowanie, które nie tylko spełnia oczekiwania, ale przekracza je, dostarczając unikalnych i satysfakcjonujących doświadczeń użytkowników. Mam zapał do nauki, jestem gotowy do podjęcia nowych wyzwań i z niecierpliwością oczekuję na możliwość pracy nad inspirującymi projektami. Pomyśl, jak wiele możemy osiągnąć razem z moją energią i twoją wizją.</p>  
             </div>
           </div>
       </div>

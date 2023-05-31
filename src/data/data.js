@@ -1,6 +1,5 @@
 import ToDo from '../assets/ToDoApp.png';
 import Weather from '../assets/WeatherApp.png';
-import SnakeGames from '../assets/SnakeGames.png';
 export const data=[
     {
         id:1,
@@ -19,7 +18,7 @@ export const data=[
     {
         id:3,
         name:"Snake Games",
-        image:SnakeGames,
+        image:Weather,
         github:"",
         live:"",
     },
