@@ -1,6 +1,6 @@
 import ToDo from '../assets/ToDoApp.png';
-import RealEst from '../assets/Weather App.png';
-
+import Weather from '../assets/WeatherApp.png';
+import SnakeGames from '../assets/SnakeGames.png';
 export const data=[
     {
         id:1,
@@ -12,35 +12,35 @@ export const data=[
     {
         id:2,
         name:"MeteoRadar App",
-        image:RealEst,
-        github:"",
-        live:"",
+        image:Weather,
+        github:"https://github.com/PiotrOlek/Weather-app-React",
+        live:"https://piotrolek.github.io/Weather-app-React/",
     },
     {
         id:3,
-        name:" Quiz App",
-        image:RealEst,
+        name:"Snake Games",
+        image:SnakeGames,
         github:"",
         live:"",
     },
     {
         id:4,
         name:"KaloriaMetr App",
-        image:RealEst,
+        image:Weather,
         github:"",
         live:"",
     },
     {
         id:5,
         name:"Szyfrant App",
-        image:RealEst,
+        image:Weather,
         github:"",
         live:"",
     },
     {
         id:6,
         name:"EcoSpalanie App",
-        image:RealEst,
+        image:Weather,
         github:"",
         live:"",
     },
