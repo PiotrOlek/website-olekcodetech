@@ -2,6 +2,7 @@ import ToDo from '../assets/ToDoApp.png';
 import Weather from '../assets/WeatherApp.png';
 import BMI from '../assets/KalkulatorBMI.png';
 
+
 export const data=[
     {
         id:1,
@@ -26,14 +27,14 @@ export const data=[
     },
     {
         id:4,
-        name:"KaloriaMetr App",
-        image:Weather,
+        name:"Szyfrant App",
+        image:ToDo,
         github:"",
         live:"",
     },
     {
         id:5,
-        name:"Szyfrant App",
+        name:"",
         image:Weather,
         github:"",
         live:"",
