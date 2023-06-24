@@ -1,6 +1,12 @@
 import ToDo from '../assets/ToDoApp.png';
 import Weather from '../assets/WeatherApp.png';
 import BMI from '../assets/KalkulatorBMI.png';
+import Memory from '../assets/MemoryGames.png';
+import Password from '../assets/PasswordGenerator.png';
+import Snake from '../assets/SnakeGames.png';
+import Kantor from '../assets/Exchange.png'
+
+
 
 
 export const data=[
@@ -28,24 +34,44 @@ export const data=[
     {
         id:4,
         name:"Szyfrant App",
-        image:ToDo,
+        image:Password,
         github:"",
         live:"",
     },
     {
         id:5,
-        name:"",
-        image:Weather,
+        name:"Memory Game",
+        image:Memory,
         github:"",
         live:"",
     },
     {
         id:6,
-        name:"EcoSpalanie App",
-        image:Weather,
+        name:"Snake Game",
+        image:Snake,
         github:"",
         live:"",
     },
-
+    {
+        id:7,
+        name:"Online Kantor",
+        image:Kantor,
+        github:"",
+        live:"",
+    },
+    {
+        id:8,
+        name:"Quiz",
+        image:Snake,
+        github:"",
+        live:"",
+    },
+    {
+        id:9,
+        name:"Snake",
+        image:Snake,
+        github:"",
+        live:"",
+    },
 
 ]
