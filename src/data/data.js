@@ -4,7 +4,8 @@ import BMI from '../assets/KalkulatorBMI.png';
 import Memory from '../assets/MemoryGames.png';
 import Password from '../assets/PasswordGenerator.png';
 import Snake from '../assets/SnakeGames.png';
-import Kantor from '../assets/Exchange.png'
+import Kantor from '../assets/Exchange.png';
+import Shots from '../assets/Shots.png'
 
 
 
@@ -61,8 +62,8 @@ export const data=[
     },
     {
         id:8,
-        name:"Quiz",
-        image:Snake,
+        name:"Shots",
+        image:Shots,
         github:"",
         live:"",
     },
