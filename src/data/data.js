@@ -5,7 +5,8 @@ import Memory from '../assets/MemoryGames.png';
 import Password from '../assets/PasswordGenerator.png';
 import Snake from '../assets/SnakeGames.png';
 import Kantor from '../assets/Exchange.png';
-import Shots from '../assets/Shots.png'
+import Shots from '../assets/Shots.png';
+import Kalkulator from '../assets/kalkulator.png'
 
 
 
@@ -41,8 +42,8 @@ export const data=[
     },
     {
         id:5,
-        name:"Memory Game",
-        image:Memory,
+        name:"Shots",
+        image:Shots,
         github:"",
         live:"",
     },
@@ -62,15 +63,15 @@ export const data=[
     },
     {
         id:8,
-        name:"Shots",
-        image:Shots,
+        name:"Memory Game",
+        image:Memory,
         github:"",
         live:"",
     },
     {
         id:9,
-        name:"Snake",
-        image:Snake,
+        name:"Kalkulator",
+        image:Kalkulator,
         github:"",
         live:"",
     },
