@@ -1,9 +1,13 @@
 {
   "files": {
     "main.css": "/website-olekcodetech/static/css/main.dc800cc7.css",
-    "main.js": "/website-olekcodetech/static/js/main.2e8a6ee6.js",
+    "main.js": "/website-olekcodetech/static/js/main.976d7487.js",
     "static/media/WeatherApp.png": "/website-olekcodetech/static/media/WeatherApp.60b3c8e41bb07c53c1ab.png",
+    "static/media/Exchange.png": "/website-olekcodetech/static/media/Exchange.74b9a0cf86a0a159ba15.png",
+    "static/media/Shots.png": "/website-olekcodetech/static/media/Shots.bb69b7f3e96c6ff65903.png",
+    "static/media/MemoryGames.png": "/website-olekcodetech/static/media/MemoryGames.d05cab95e98a47e3345e.png",
     "static/media/ToDoApp.png": "/website-olekcodetech/static/media/ToDoApp.1bf0ac3c3078b24c18d2.png",
+    "static/media/PasswordGenerator.png": "/website-olekcodetech/static/media/PasswordGenerator.d65741f41b466119d2e0.png",
     "static/media/react.png": "/website-olekcodetech/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/website-olekcodetech/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/KalkulatorBMI.png": "/website-olekcodetech/static/media/KalkulatorBMI.2f627ba7340f5217b234.png",
@@ -12,14 +16,15 @@
     "static/media/tailwind.png": "/website-olekcodetech/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/website-olekcodetech/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/firebase.png": "/website-olekcodetech/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/SnakeGames.png": "/website-olekcodetech/static/media/SnakeGames.d264310ed352e3b38af7.png",
     "static/media/logo.png": "/website-olekcodetech/static/media/logo.f1e7952f30ab9f19d641.png",
     "static/media/javascript.png": "/website-olekcodetech/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/website-olekcodetech/index.html",
     "main.dc800cc7.css.map": "/website-olekcodetech/static/css/main.dc800cc7.css.map",
-    "main.2e8a6ee6.js.map": "/website-olekcodetech/static/js/main.2e8a6ee6.js.map"
+    "main.976d7487.js.map": "/website-olekcodetech/static/js/main.976d7487.js.map"
   },
   "entrypoints": [
     "static/css/main.dc800cc7.css",
-    "static/js/main.2e8a6ee6.js"
+    "static/js/main.976d7487.js"
   ]
 }
