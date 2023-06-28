@@ -44,15 +44,15 @@ export const data=[
         id:5,
         name:"Memory Game",
         image:Memory,
-        github:"",
-        live:"",
+        github:"https://github.com/PiotrOlek/MemoryGame",
+        live:"https://piotrolek.github.io/MemoryGame/",
     },
     {
         id:6,
         name:"Snake Game",
         image:Snake,
-        github:"",
-        live:"",
+        github:"https://github.com/PiotrOlek/SnakeGame.github.io",
+        live:"https://piotrolek.github.io/SnakeGame.github.io/",
     },
 
 ]
