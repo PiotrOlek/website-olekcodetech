@@ -2,11 +2,9 @@ import ToDo from '../assets/ToDoApp.png';
 import Weather from '../assets/WeatherApp.png';
 import BMI from '../assets/KalkulatorBMI.png';
 import Memory from '../assets/MemoryGames.png';
-import Password from '../assets/PasswordGenerator.png';
 import Snake from '../assets/SnakeGames.png';
-import Kantor from '../assets/Exchange.png';
 import Shots from '../assets/Shots.png';
-import Kalkulator from '../assets/kalkulator.png'
+import kwtax from '../assets/kw-tax.png'
 
 
 
@@ -14,10 +12,10 @@ import Kalkulator from '../assets/kalkulator.png'
 export const data=[
     {
         id:1,
-        name:"ToDo List App",
-        image:ToDo,
-        github:"https://github.com/PiotrOlek/todolist",
-        live:"https://piotrolek.github.io/todolist/",
+        name:"KW-TAX",
+        image:kwtax,
+        github:"https://github.com/PiotrOlek/kw-tax",
+        live:"https://kw-tax.pl",
     },
     {
         id:2,
@@ -42,10 +40,10 @@ export const data=[
     },
     {
         id:5,
-        name:"Memory Game",
-        image:Memory,
-        github:"https://github.com/PiotrOlek/MemoryGame",
-        live:"https://piotrolek.github.io/MemoryGame/",
+        name:"ToDo List App",
+        image:ToDo,
+        github:"https://github.com/PiotrOlek/todolist",
+        live:"https://piotrolek.github.io/todolist/",
     },
     {
         id:6,
