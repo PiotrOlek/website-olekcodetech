@@ -1,6 +1,5 @@
 {
-  "homepage": "https://piotrolek.github.io/website-olekcodetech/",
-  "name": "portfolio-react-app",
+  "name": "olekcodetech",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

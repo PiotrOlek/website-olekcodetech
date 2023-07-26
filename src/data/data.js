@@ -1,7 +1,6 @@
 import ToDo from '../assets/ToDoApp.png';
 import Weather from '../assets/WeatherApp.png';
 import BMI from '../assets/KalkulatorBMI.png';
-import Memory from '../assets/MemoryGames.png';
 import Snake from '../assets/SnakeGames.png';
 import Shots from '../assets/Shots.png';
 import kwtax from '../assets/kw-tax.png'
